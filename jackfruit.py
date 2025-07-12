@@ -1,3 +1,4 @@
+
 N,D=map(int,input().split())
 st=list(map(int,input().split()))
 m=0
